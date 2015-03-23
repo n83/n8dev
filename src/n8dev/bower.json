@@ -1,0 +1,8 @@
+{
+  "name": "n8dev",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.3"
+  },
+  "exportsOverride": {}
+}
